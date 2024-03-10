@@ -10,6 +10,10 @@
     "type": "git",
     "url": "https://github.com/parrot29000/merklin-tea.git"
   },
+  "dependencies": {
+    "tea-demo-arsen": "1.0.1",
+    "tea-elixir": "1.0.0"
+  },
   "author": "Parrot29000",
   "license": "ISC",
   "bugs": {
