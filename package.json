@@ -1,6 +1,6 @@
 {
   "name": "merklin-tea",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Merklin tea integration",
   "main": "index.js",
   "scripts": {
